@@ -25,6 +25,8 @@ results/
 __pycache__/
 *.pyc
 *.pyo
+*.csv
+*.npy
 
 # ==========================
 # IDE
