@@ -1,0 +1,32 @@
+# ==========================
+# DATASETS (DO NOT PUSH)
+# ==========================
+data/
+RecordedSessions/
+archive*/
+*.zip
+
+# ==========================
+# GENERATED OUTPUTS (DO NOT PUSH)
+# ==========================
+*.npy
+features_*.csv
+features_*.xlsx
+features_*.png
+
+# if you save any results/reports
+artifacts/
+outputs/
+results/
+
+# ==========================
+# PYTHON CACHE
+# ==========================
+__pycache__/
+*.pyc
+*.pyo
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
