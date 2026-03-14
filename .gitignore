@@ -1,10 +1,4 @@
-# ==========================
-# DATASETS (DO NOT PUSH)
-# ==========================
-data/
-RecordedSessions/
-archive*/
-*.zip
+
 
 # ==========================
 # GENERATED OUTPUTS (DO NOT PUSH)
